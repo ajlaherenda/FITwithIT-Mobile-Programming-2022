@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/ic_baseline_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/quote"
+        android:icon="@drawable/ic_baseline_format_quote"
+        android:title="@string/d"
+
+        />
+    <item
+        android:id="@+id/hamster"
+        android:icon="@drawable/ic_baseline_gamepad"
+        android:title="@string/g" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_person"
+        android:title="@string/p" />
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FITwithIT</string>
+    <string name="p">My Profile</string>
+    <string name="g">Hamster roll</string>
+    <string name="d">Daily quote</string>
+    <string name="r">REGISTER</string>
+    <string name="l">Log in</string>
+    <string name="loginQuestion">You already have an account?</string>
+    <string name="registerQuestion">You want to create a new account?</string>
+    <string name="hello">Hello</string>
+    <string name="home">Home</string>
+    <string name="maddie">Maddie Lymburner, a 25-year-old Waterdown, Ont., native has over five million subscribers to her “MadFit” channel and another 500,000 to her own personal lifestyle stream and is now tops among Canadian vloggers.</string>
+</resources>
